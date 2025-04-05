@@ -104,6 +104,11 @@
       "symbol": "Kč",
       "display_format": "Kč (Czech koruna)",
       "min_price": 2149
+    },
+    "sek": {
+      "symbol": "SEK",
+      "display_format": "SEK (Swedish Krona)",
+      "min_price": 2149
     }
   }
 }

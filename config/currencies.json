@@ -108,7 +108,7 @@
     "sek": {
       "symbol": "SEK",
       "display_format": "SEK (Swedish Krona)",
-      "min_price": 2149
+      "min_price": 999
     }
   }
 }
